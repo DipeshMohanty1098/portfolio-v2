@@ -72,3 +72,11 @@ h5{
   animation: fadeIn 3s;
 }
 
+img {
+  transition: transform .2s;
+}
+
+img:hover {
+  transform: scale(1.5);
+}
+
